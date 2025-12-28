@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Codec/Codec.vcxproj" Id="f86c46c2-a76c-4a9f-baca-a99e4b6959cc" />
+</Solution>
